@@ -1,1 +1,1 @@
-hellow_world_script
+script that print hello world
